@@ -63,7 +63,13 @@ npm run lint
 # fix ESLint errors
 npm run lint:fix
 
-## Project Structure
+# run prettier
+npm run lint
+
+# fix prettier errors
+npm run lint:fix
+```
+## Folder Structure
 ```
 src\
  |--controllers\    # Route controllers
