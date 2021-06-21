@@ -21,7 +21,7 @@ module.exports = router;
  */
 /**
  * @swagger
- * /retriveDataByFilter:
+ * /api/retriveDataByFilter:
  *   post:
  *     summary: Return records from MongoDB
  *     description: Return records with given date and count parameters
