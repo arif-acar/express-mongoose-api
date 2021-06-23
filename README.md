@@ -6,8 +6,8 @@ A rest api application for retrieve data from MongoDB by using Node.js, Express,
 Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/hagopj13/node-express-boilerplate.git
-cd gtr-record-app
+git clone --depth 1 https://github.com/arif-acar/express-mongoose-api.git
+cd express-mongoose-api
 ```
 
 Install the dependencies:
